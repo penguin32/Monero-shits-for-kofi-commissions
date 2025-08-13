@@ -32,5 +32,10 @@ download those two files, then run
 note: those two file should be at the same directory, I think.... *shrug shoulders*
 
 
-it should show the signature to be valid if it matches the expected public key, 
+it should appear "good signature" which means monero address from the .txt file hasnt been tampered and also if it matches the expected public key, 
 if it not, then the Monero address has been tampered! which I don't recommend you sending money to that shit.
+
+
+
+----end---= not so important details------
+the warning you see "not certified with a trusted signature" just means that you havent verified my public gpg key with your own key and also that you didnt acquire the key straight from me, but I dont have to send it personally since I trust github, so its fine, and I have layers of protection like phone authentication to login in my github account.
