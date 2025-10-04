@@ -1,6 +1,8 @@
 # Monero-shits-for-kofi-commissions
 public address be updated here with its gpg, to be verified by the commissioners
 
+Note: Instead of reading the shit below, you can just send the XMR directly to this monero address: kofi-monero-address.txt
+
 Because of text limiting shit from site, let me elaborate shit here.
 
 
